@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/setiamekar.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("setiamekar.jpg");
   background-position: 50% 50%;
 }
 
@@ -355,7 +355,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 371px;
-  background-image: url("images/Posyandu.jpg");
+  background-image: url("Posyandu.jpg");
   background-position: 53.42% 50%;
 }
 
@@ -403,7 +403,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 375px;
-  background-image: url("images/IMG-20210813-WA0070.jpg");
+  background-image: url("IMG-20210813-WA0070.jpg");
   background-position: 50% 50%;
 }
 
@@ -414,7 +414,7 @@
 
 .u-section-3 .u-image-3 {
   min-height: 368px;
-  background-image: url("images/polri-peduli-vaksin.jpg");
+  background-image: url("polri-peduli-vaksin.jpg");
   background-position: 50% 50%;
 }
 
@@ -462,7 +462,7 @@
 
 .u-section-3 .u-image-4 {
   min-height: 368px;
-  background-image: url("images/Setia-1.jpg");
+  background-image: url("Setia-1.jpg");
   background-position: 50% 50%;
 }
 
@@ -852,7 +852,7 @@
     grid-auto-columns: 100%;
   }
 } .u-section-4 {
-  background-image: url("images/bg.jpg");
+  background-image: url("bg.jpg");
   background-position: 50% 50%;
 }
 
